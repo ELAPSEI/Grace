@@ -1,0 +1,41 @@
+.tags
+.tags_sorted_by_file
+.pyc
+__pycache__
+.cache
+.DS_Store
+*.pid
+*Help
+log.*
+log.home_IS_UNDEFINED
+doc/api_doc
+
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
